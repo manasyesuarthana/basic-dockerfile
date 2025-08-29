@@ -40,9 +40,9 @@ Docker is already installed and you are set. If not, go ahead and install!
 ## Project Completion Steps
 
 ### 1. Writing a Program to print out the statement.
-The statement that will be printed by the container is `Hello, Captain!`. I will be using an over-engineered C code to do this 😂
+The statement that will be printed by the container is `Hello, Captain!`. I will be using an over-engineered C code to achieve this 😂
 
-Below is the C program I used, which uses sophisticated concepts like `malloc()`, `free()`, and pointers. All of this just to print one statement :v 
+Below is the C program I used, which involves sophisticated concepts like `malloc()`, `free()`, and pointers. All of this just to print a single statement :v 
 
 **hello.c**
 ```c
